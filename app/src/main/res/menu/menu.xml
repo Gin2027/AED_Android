@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="训练"
+        android:id="@+id/id1"
+        android:enabled="true"
+        android:icon="@drawable/icon_xl"
+        />
+    <item
+        android:id="@+id/id2"
+        android:title="老师"
+        android:enabled="true"
+        android:icon="@drawable/icon_ls"
+        />
+    <item
+        android:title="设置"
+        android:id="@+id/id3"
+        android:enabled="true"
+        android:icon="@drawable/icon_sz"
+        />
+
+</menu>
